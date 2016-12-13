@@ -1,0 +1,1 @@
+java-shopstyle-api
